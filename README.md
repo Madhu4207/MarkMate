@@ -1,1 +1,1 @@
-# bst-student-mark
+# MarkMate
